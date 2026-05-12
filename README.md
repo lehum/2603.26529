@@ -5,7 +5,8 @@ This repository contains the Mathematica materials accompanying the paper
 
 W. Carvalho, A. C. Lehum, J. R. Nascimento, and A. Yu. Petrov,  
 *Complex bumblebee model*,  
-arXiv:2603.26529 [hep-th].
+arXiv:2603.26529 [hep-th].  
+DOI: https://doi.org/10.1103/437b-8nlz
 
 ## Description
 
@@ -35,4 +36,5 @@ If you use these files in academic work, please cite:
 
 W. Carvalho, A. C. Lehum, J. R. Nascimento, and A. Yu. Petrov,  
 *Complex bumblebee model*,  
-arXiv:2603.26529 [hep-th].
+arXiv:2603.26529 [hep-th].  
+DOI: https://doi.org/10.1103/437b-8nlz
